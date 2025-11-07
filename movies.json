@@ -8,5 +8,10 @@
     "1080p": "https://yourlink.com/interstellar1080p.mkv",
     "720p": "https://yourlink.com/interstellar720p.mkv",
     "480p": "https://yourlink.com/interstellar480p.mkv"
+  },
+  "the-dark-knight": {
+    "1080p": "https://pub-d62a3b0783764044b5f2ead62ab2a609.r2.dev/2_The.Dark.Knight.2008.1080p.Dual.Audio.Hin-Eng.Vegamovies.NL.mkv",
+    "720p": "https://pub-0596bbebeb8248ae92962c27a2847933.r2.dev/The.Dark.Knight.2008.720p.Dual.Audio.Hin-Eng.Vegamovies.NL.mkv",
+    "480p": "https://pub-2339cf66a8c84de5ade3f4033c2f8f83.r2.dev/The.Dark.Knight.2008.480p.Dual.Audio.Hin-Eng.Vegamovies.NL.mkv"
   }
 }
